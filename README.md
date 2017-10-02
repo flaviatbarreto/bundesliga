@@ -6,10 +6,10 @@ https://laravel.com/docs/5.5
 
 # Run project
 
-Clone/download the project
-In terminal:
-~ cd bundesliga
-~ php artisan serve
+- Clone/download the project
+- In terminal:
+- ~ cd bundesliga
+- ~ php artisan serve
 
 # features
 - Next games
